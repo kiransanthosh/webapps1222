@@ -1,0 +1,51 @@
+{
+"details":{
+  "name":"kiransanthosh",
+  "image":"index.png",
+  "email":"chimata1999@gmail.com",
+  "mobile":"888888888"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of organization"
+},
+"education":[
+  {
+    "degree":"btech",
+    "institute":"pvpsit",
+    "data":["2015-19","80%"]
+  },
+  {
+  "degree":"intermediate",
+  "institute":"narayana",
+  "data":["2014-16","90%"]
+},
+{
+"degree":"ssc",
+"institute":"XYZ",
+"data":["2014","80%"]
+}
+],
+"skills":[
+{
+  "title":"programming language",
+  "info":["c","c++","python","java"]
+},
+{
+   "title":"data base",
+   "info":["oracle","mysql","sql"]
+},
+   {
+     "title": "os",
+     "info":["window","mac","unix","kailinux"]
+   },
+  {
+    "title":"wt",
+    "info":["html","css","javascript"]
+}
+],
+"achivements":[
+  {
+    "info":["coding","workshops"]
+  }
+]
+}
